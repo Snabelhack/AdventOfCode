@@ -1,0 +1,6 @@
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\bin\Debug\Dec01.dll
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\bin\Debug\Dec01.pdb
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\obj\Debug\Dec01.csproj.AssemblyReference.cache
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\obj\Debug\Dec01.csproj.CoreCompileInputs.cache
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\obj\Debug\Dec01.dll
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\obj\Debug\Dec01.pdb

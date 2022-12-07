@@ -1,0 +1,15 @@
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\bin\Debug\net7.0\Dec01.exe
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\bin\Debug\net7.0\Dec01.deps.json
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\bin\Debug\net7.0\Dec01.runtimeconfig.json
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\bin\Debug\net7.0\Dec01.dll
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\bin\Debug\net7.0\Dec01.pdb
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.csproj.AssemblyReference.cache
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.AssemblyInfoInputs.cache
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.AssemblyInfo.cs
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.csproj.CoreCompileInputs.cache
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.dll
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\refint\Dec01.dll
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.pdb
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\Dec01.genruntimeconfig.cache
+C:\Users\SESALENBACKP\RiderProjects\AdventOfCode22\Dec01\Dec01\obj\Debug\net7.0\ref\Dec01.dll
